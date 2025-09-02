@@ -1,10 +1,11 @@
-package com.example.demo.controllers;
+package com.rd.shopIt.controllers;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.example.demo.entity.UserEntity;
+import com.rd.shopIt.entity.UserEntity;
+
 
 @RestController
 @RequestMapping("/user")

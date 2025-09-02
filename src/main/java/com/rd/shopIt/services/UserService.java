@@ -1,7 +1,8 @@
-package com.example.demo.services;
+package com.rd.shopIt.services;
 
 import java.util.List;
-import com.example.demo.entity.UserEntity;
+
+import com.rd.shopIt.entity.UserEntity;
 
 public interface UserService {
 

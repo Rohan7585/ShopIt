@@ -1,10 +1,10 @@
-package com.example.demo.impl;
+package com.rd.shopIt.impl;
 
 import java.util.List;
 import org.springframework.stereotype.Service;
-import com.example.demo.entity.UserEntity;
-import com.example.demo.repositories.UserRepository;
-import com.example.demo.services.UserService;
+import  com.rd.shopIt.entity.UserEntity;
+import  com.rd.shopIt.repositories.UserRepository;
+import  com.rd.shopIt.services.UserService;
 
 
 @Service

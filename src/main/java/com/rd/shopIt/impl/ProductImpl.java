@@ -1,8 +1,8 @@
-package com.example.demo.impl;
+package com.rd.shopIt.impl;
 
 import org.springframework.stereotype.Service;
 
 @Service
-public class OrderImpl {
+public class ProductImpl {
 
 }

@@ -1,8 +1,7 @@
-package com.example.demo.repositories;
+package com.rd.shopIt.repositories;
 
 import org.springframework.data.jpa.repository.JpaRepository;
-
-import com.example.demo.entity.OrderDtlEntity;
+import com.rd.shopIt.entity.OrderDtlEntity;
 
 public interface OrderDtlRepository extends JpaRepository<OrderDtlEntity, Long> {
 
